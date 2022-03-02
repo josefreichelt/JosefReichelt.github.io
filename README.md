@@ -21,7 +21,7 @@ An interactive weather widget that shows general lookout for the following week,
 ___
 
 ## Internal admin for search-engine
-A webapp written in react for searching through large amount of debug information from search engine
+A webapp written in react for searching through large amount of debug information from search engine.  
 My role was to write the entire backend and help with frontend
 
 ![](https://img.shields.io/badge/-react-2e2e2e?style=flat-square&logo=react)
