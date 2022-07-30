@@ -1,7 +1,7 @@
 ### Hello there 👋
 My name is Josef Reichelt and I do coding things. I'm focusing on frontend development in ![](https://img.shields.io/badge/-react-2e2e2e?style=flat-square&logo=react) but lately I've been trying to get more into backend development. Things I like the most are my son 👦, games 🕹 and game development 💾.
 
-🔭 currently I'm investigating and learning ![](https://img.shields.io/badge/-golang-2e2e2e?style=flat-square&logo=go)
+🔭 currently I'm investigating and learning ![](https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=cplusplus)
 
 If you would like to contact me, visit my [![](https://img.shields.io/badge/-Linkedin-2e2e2e?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josefreichelt/) shoot me an email at [pepareichelt@gmail.com](mailto:pepareichelt@gmail.com)
 
