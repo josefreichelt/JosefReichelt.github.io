@@ -11,6 +11,22 @@ ___
 
 # Some things I worked on:  
 
+## Beach Plane
+A simple flying and dodge game based on the famous Flappy Bird, made in c++ with raylib.  
+[Play on Itch.io](https://protomace.itch.io/beach-plane)  
+<img src="./beach-plane_TOJZgUjPzc.gif" height="300px"/>  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+## Beach Bounce
+A simple bouncing ball game made in c++ with raylib.  
+[Play on Itch.io](https://protomace.itch.io/beach-bounce)  
+[Project Repo](https://github.com/josefreichelt/proto-kit)  
+<img src="./beach-bounce_w6ihjmL9SD.gif" height="300px"/>  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
 ## Idle Slayer
 A terminal idle game written in C# using the Terminal.Gui library.  
 [Project Repo](https://github.com/josefreichelt/idleslayer)  
