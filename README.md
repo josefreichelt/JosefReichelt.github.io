@@ -1,6 +1,6 @@
 ### Hello there 👋
 My name is Josef Reichelt and I do coding things.  
-I'm focusing on frontend development in ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) but lately I've been trying to get more into backend development and native side of things.
+I'm a web frontend developer with 4 years of working experience in ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) but my passion and focus gamedevelopment in ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white).
 
 What I love the most is my son 👦, my wife 👱‍♀️, games 🕹 and game development 💾.
 
