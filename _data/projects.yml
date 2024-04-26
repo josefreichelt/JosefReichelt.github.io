@@ -1,0 +1,43 @@
+- title: "Beach Plane"
+  description: "A simple flappy bird like plane game made with raylib and c++"
+  image: "/assets/imgs/beach_plane.gif"
+  link: "https://protomace.itch.io/beach-plane"
+  link_text: "Playable version on itch.io"
+  tech: "C++, Raylib, Raygui, Emscripten"
+
+- title: "Beach Bounce"
+  description: "A simple bouncy ball game made with raylib and c++"
+  image: "/assets/imgs/beach_bounce.gif"
+  link: "https://protomace.itch.io/beach-bounce"
+  link_text: "Playable version on itch.io"
+  tech: "C++, Raylib, Emscripten"
+
+- title: "IdleSlayer"
+  description: "A terminal based idle monster game made with c#"
+  image: "/assets/imgs/idleslayer.gif"
+  tech: "C#, Terminal.Gui"
+  # link: "https://protomace.itch.io/beach-bounce"
+  # link_text: "Playable version on itch.io"
+
+- title: "Weather widget"
+  description: "An interactive weather widget that shows general lookout for the following week, current temperature, small text description and a temperature graph that is being rendered in canvas."
+  image: "/assets/imgs/weather.gif"
+  tech: "React, Typescript, Less"
+  # link: "https://protomace.itch.io/beach-bounce"
+  # link_text: "Playable version on itch.io"
+
+- title: Internal admin for search-engine
+  description: "A webapp written in react for searching through large amount of debug information from search engine. My role was to write the backend and help with frontend"
+  tech: "React, Express.js, Sass, Typescript, Postgres"
+
+- title: Internal admin web app for tire supplier
+  description: "A webapp written in react using the next.js framework for managing a tire supplier inventory. My role was to write the entire frontend"
+  tech: "React, Next.js, Styled Components, Typescript"
+
+- title: E-shop car configurator
+  description: "A webapp written in react using the next.js framework for configuring and purchasing a car. My role was to write react components in a team of frontend developers"
+  tech: "React, Next.js, Styled Components, Typescript"
+
+- title: Internal admin web app for a bank
+  description: "A webapp written in react for managing and searching through big number of documents. My role was to write the entire frontend"
+  tech: "React,  Sass, Typescript"

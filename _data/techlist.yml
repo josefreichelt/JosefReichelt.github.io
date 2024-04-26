@@ -1,0 +1,60 @@
+languages:
+  main:
+    - Html
+    - Css
+    - JavaScript
+    - TypeScript
+    - C++
+    - C#
+  secondary:
+    - Lua
+    - Python
+    - Rust
+    - Go
+    - Sass
+    - Less
+
+frameworks:
+  web:
+      - React
+      - React Native
+      - Svelte
+      - Vue
+      - Redux
+      - Ant Design
+      - Blazor
+      - Styled-Components
+      - Wordpress
+      - Jekyll
+      - Next.js
+      - Electron
+
+  game:
+      - Unity
+      - Godot
+      - GameMaker
+      - Raylib
+      - SDL
+      - Phaser
+      - Monogame
+      - Three.js
+
+tools:
+  - Visual Studio
+  - Visual Studio Code
+  - Git
+  - NeoVim
+  - Aseprite
+  - Affinity Suite
+  - Blender
+  - Figma
+  - Storybook
+  - Cmake
+  - Babel
+  - Docker
+  - Eslint
+  - Postman
+  - Webpack
+  - Jest
+  - Sqlite
+  - Postgres

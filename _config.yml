@@ -1,0 +1,67 @@
+title: PepaBlog
+description: Pepa's Dev Blog
+domain: josefreichelt.github.io
+baseurl: ""
+url: "https://josefreichelt.github.io"
+author: Josef Reichelt
+github_username: josefreichelt
+remote_theme: daattali/beautiful-jekyll@6.0.1
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-coffeescript
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  - jekyll-github-metadata
+  - jekyll-gist
+  - jekyll-avatar
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+###############################################
+# Theme related settings
+###############################################
+
+navbar-links:
+  About Me: "about"
+  My Projects: "projects"
+
+social-network-links:
+  linkedin: josefreichelt
+  github: josefreichelt
+
+avatar: "/assets/logo.png"
+round-avatar: true
+post_search: true
+keywords: "dev, gamedev, game development, vyvoj her, vývoj her, web developer, react developer, frontend"
+excerpt_length: 150
+feed_show_excerpt: true
+paginate: 5
+
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#404040"
+navbar-col: "#3D7AF5"
+navbar-text-col: "#ececec"
+navbar-border-col: "#DDDDDD"
+footer-col: "#3D7AF5"
+footer-text-col: "#ececec"
+footer-link-col: "#414141"
+footer-hover-col: "#404040"
